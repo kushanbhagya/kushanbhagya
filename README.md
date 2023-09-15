@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kushan bhagya and I'm a Cyber Security Undergraduate, from Colombo, Sri Lanka.</h2>
+<h2 align="left">Hi 👋! My name is Kushan Bhagya, and I'm a Cyber Security Undergraduate, from Colombo, Sri Lanka.</h2>
 
 ###
 
