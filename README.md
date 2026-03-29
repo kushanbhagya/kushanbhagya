@@ -3,19 +3,19 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║  ██████╗ ██╗   ██╗███████╗███████╗ ██████╗                   ║
-║  ██╔══██╗╚██╗ ██╔╝██╔════╝██╔════╝██╔════╝                   ║
-║  ██║  ██║ ╚████╔╝ ███████╗█████╗  ██║                        ║
-║  ██║  ██║  ╚██╔╝  ╚════██║██╔══╝  ██║                        ║
-║  ██████╔╝   ██║   ███████║███████╗╚██████╗                   ║
-║  ╚═════╝    ╚═╝   ╚══════╝╚══════╝ ╚═════╝                   ║
+║  ██╗  ██╗██╗   ██╗███████╗██╗  ██╗ █████╗ ███╗   ██╗        ║
+║  ██║ ██╔╝██║   ██║██╔════╝██║  ██║██╔══██╗████╗  ██║        ║
+║  █████╔╝ ██║   ██║███████╗███████║███████║██╔██╗ ██║        ║
+║  ██╔═██╗ ██║   ██║╚════██║██╔══██║██╔══██║██║╚██╗██║        ║
+║  ██║  ██╗╚██████╔╝███████║██║  ██║██║  ██║██║ ╚████║        ║
+║  ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝        ║
 ║                                                               ║
 ║           [ SECURITY ENGINEER · PENTESTER · IR ]             ║
 ║                  > Initializing profile...                    ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=600&lines=Security+Engineer+%7C+Pentester+%7C+IR+Analyst;Hack+the+planet.+Defend+the+stack.;Red+%2B+Blue+%3D+Purple+Team+Mindset;Building+Secure+Systems+%40+Scale)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=650&lines=Hi+I'm+Kushan+%F0%9F%91%8B;Cybersecurity+Graduate+%7C+Aspiring+MSc;Pentester+%7C+IR+Analyst+%7C+DevSecOps;Building+a+Home+Cyber+%26+Network+Lab;Hack+the+planet.+Defend+the+stack.)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00FF41&label=VISITORS)](https://github.com/YOUR_USERNAME)
 [![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=00FF41&labelColor=0D1117&label=FOLLOWERS)](https://github.com/YOUR_USERNAME)
@@ -27,15 +27,32 @@
 ## `> whoami`
 
 ```bash
-┌──(sec@kali)-[~/profile]
+┌──(kushan@kali)-[~/profile]
 └─$ cat about.txt
 
-  Name        : YOUR NAME
-  Role        : Security Engineer | Pentester | IR Analyst
-  Location    : [REDACTED]
-  Focus       : Penetration Testing · Incident Response · DevSecOps
+  Name        : Kushan Bhagya
+  Role        : Cybersecurity Professional
+  Education   : BSc (Hons) in Information Technology - Cyber Security ✅  |  MSc Cybersecurity 🎯 
+  Focus       : Penetration Testing · Incident Response · Security Engineering
+  Current     : Building a Home Cyber & Network Lab 🔬
   Philosophy  : "Security is not a product, but a process." — Bruce Schneier
-  Status      : 🟢 Online | Always learning, always hunting
+  Status      : 🟢 Online | Studying · Building · Hacking (ethically)
+```
+
+---
+
+## `> cat education.log`
+
+```
+┌──(kushan@kali)-[~/education]
+└─$ ls -lh
+
+  [✅ COMPLETED]  BSc (Hons) in Information Technology - Cyber Security
+                  └─ Foundation in networks, ethical hacking,
+                     digital forensics & security engineering
+
+  [🎯 PLANNED]   MSc Cybersecurity
+                  └─ Advanced research · Specialization in progress
 ```
 
 ---
@@ -55,33 +72,61 @@
 ![Elastic](https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![TheHive](https://img.shields.io/badge/TheHive-FFAE33?style=for-the-badge&logoColor=black)
 ![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logoColor=white)
-![Velociraptor](https://img.shields.io/badge/Velociraptor-0D1117?style=for-the-badge&logoColor=00FF41)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### 🟣 DevSecOps & Engineering
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vault](https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ### ⚙️ Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
 ## `> ls -la current_missions/`
 
 ```
-drwxr-xr-x  projects/
-├── 🔍 [ACTIVE]   Building automated recon pipeline for external attack surface mapping
-├── 🛡️  [ACTIVE]   Hardening CI/CD pipelines with SAST/DAST integrations
-├── 🔥 [ACTIVE]   Purple team tabletop exercises & MITRE ATT&CK mapping
-└── 📡 [LEARNING] Malware analysis & reverse engineering (x86 ASM, Ghidra)
+┌──(kushan@kali)-[~/missions]
+└─$ ls -la
+
+drwxr-xr-x  active_projects/
+│
+├── 🔬 [BUILDING]  Home Cybersecurity & Network Lab
+│                  └─ Simulating real-world attack/defense scenarios
+│                     with VMs, firewalls, IDS/IPS & traffic analysis
+│
+├── 🛡️  [ACTIVE]   Security & Networking Projects
+│                  └─ Hands-on labs pushed to GitHub regularly
+│                     (pentesting, network configs, IR playbooks)
+│
+├── 📡 [STUDYING]  CCNA — Cisco Certified Network Associate
+│                  └─ Routing, switching, subnetting, network security
+│
+└── 🔐 [STUDYING]  CompTIA Security+
+                   └─ Threats, cryptography, identity management,
+                      risk management & compliance
+```
+
+---
+
+## `> cat certifications.txt`
+
+```
+┌──(kushan@kali)-[~/certs]
+└─$ cat progress.log
+
+  [ ] CompTIA Security+        [████████░░░░]  IN PROGRESS 📚
+  [ ] CCNA (Cisco)             [██████░░░░░░]  IN PROGRESS 📡
+  [🎯] CEH / OSCP              [░░░░░░░░░░░░]  PLANNED
+  [🎯] MSc Cybersecurity       [░░░░░░░░░░░░]  PLANNED
+
+  🏆 Completed:
+  [✅] BSc (Hons) in Information Technology - Cyber Security   ████████████  ACHIEVED
 ```
 
 ---
@@ -106,31 +151,17 @@ drwxr-xr-x  projects/
 
 ---
 
-## `> cat certifications.txt`
-
-```
-[+] Certified Ethical Hacker (CEH)              ████████████ ACTIVE
-[+] CompTIA Security+                           ████████████ ACTIVE
-[+] CompTIA PenTest+                            ████████████ ACTIVE
-[ ] OSCP — Offensive Security                   ██████░░░░░░ IN PROGRESS
-[ ] AWS Security Specialty                      ████░░░░░░░░ PLANNED
-```
-> ✏️ *Replace with your actual certifications*
-
----
-
 ## `> ping --connect`
 
 ```bash
-┌──(sec@kali)-[~/contact]
-└─$ nmap -p "socials" --open YOUR_NAME
+┌──(kushan@kali)-[~/contact]
+└─$ nmap -p "socials" --open Kushan
 
 PORT          STATE   SERVICE
-LinkedIn   →  OPEN    https://linkedin.com/in/YOUR_HANDLE
-Twitter    →  OPEN    https://twitter.com/YOUR_HANDLE
-TryHackMe  →  OPEN    https://tryhackme.com/p/YOUR_HANDLE
-HackTheBox →  OPEN    https://app.hackthebox.com/profile/YOUR_ID
-Email      →  OPEN    your@email.com
+LinkedIn   →  OPEN    https://www.linkedin.com/in/kushan-bhagya/
+TryHackMe  →  OPEN    https://tryhackme.com/p/Cr00k3x
+HackTheBox →  OPEN    https://app.hackthebox.com/profile/Cr00k3x
+Email      →  OPEN    bhagyadilshan99@gmail.com
 ```
 
 ---
@@ -141,9 +172,13 @@ Email      →  OPEN    your@email.com
 ╔══════════════════════════════════════════════════════════════╗
 ║   "The quieter you become, the more you are able to hear."  ║
 ║                                          — Kali Linux motto  ║
+║                                                              ║
+║    🔬 Lab always running. 📚 Always studying. 💻 Always      ║
+║       building. This GitHub grows with every project.        ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 *🔐 All opinions are my own. All hacking is authorized.*
+*⭐ Star my repos if you find them useful — more projects coming soon!*
 
 </div>
