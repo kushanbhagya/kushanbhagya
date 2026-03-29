@@ -135,9 +135,9 @@ drwxr-xr-x  active_projects/
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kushanbhagya&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=FFFFFF&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kushanbhagya&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=FFFFFF&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kushanbhagya&layout=compact&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kushanbhagya&layout=compact&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=FFFFFF&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kushanbhagya&theme=dark&background=0D1117&border=00FF41&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&sideLabels=00FF41&dates=AAAAAA)
 
