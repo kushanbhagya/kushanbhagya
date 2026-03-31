@@ -159,10 +159,15 @@ drwxr-xr-x  active_projects/
 
 PORT          STATE   SERVICE
 LinkedIn   →  OPEN    https://www.linkedin.com/in/kushan-bhagya/
+YouTube    →  OPEN    https://www.youtube.com/@CyberLabDiaries
 TryHackMe  →  OPEN    https://tryhackme.com/p/Cr00k3x
 HackTheBox →  OPEN    https://app.hackthebox.com/profile/Cr00k3x
 Email      →  OPEN    bhagyadilshan99@gmail.com
 ```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kushan_Bhagya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushan-bhagya/)
+[![YouTube](https://img.shields.io/badge/YouTube-CyberLabDiaries-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CyberLabDiaries)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Cr00k3x-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Cr00k3x)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Cr00k3x-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/Cr00k3x)
 
 ---
 
